@@ -413,7 +413,7 @@ img {
    opacity: 0;
    transform: translateX(-50%) translateY(-50%) scale(0) rotate(0deg) skew(40deg, 40deg);
 }
-.button-close {
+.button-modal {
     position: absolute;
     top: 24px;
     right: 24px; 
