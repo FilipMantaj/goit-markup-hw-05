@@ -164,17 +164,6 @@ img {
 
 .nav-li {
     padding: 24px 0;
-    position: relative;
-    color: #404bbf;
-  }
-    .nav-li::after {
-      content: '';
-      position: absolute;
-      left: 0;
-      bottom: -1px;
-      height: 4px;
-      background-color: #404bbf;
-      border-radius: 2px; 
     }
 
 .nav-link {
